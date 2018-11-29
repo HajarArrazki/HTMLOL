@@ -44,6 +44,9 @@ p{
   font-weight: bolder;
   color: #FFFFFF;
 }
+a{
+  color:#FFFFFF;
+}
 
 * {box-sizing:border-box}
 
