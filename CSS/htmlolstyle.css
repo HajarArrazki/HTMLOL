@@ -105,11 +105,11 @@ a{
 
         }
 
-        #slider-image-3:target ~ .image-holder
+      /*  #slider-image-3:target ~ .image-holder
         {
             left: -1800px;
 
-        }
+        } */
 
         .button-holder
         {
