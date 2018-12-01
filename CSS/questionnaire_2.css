@@ -5,15 +5,3 @@ color: red;
 font-family: 'Yatra One';
 max-width: 1200px;
 }
-
-.design {
-  display: inline-block;
-}
-
-.left-side{
-  padding-right: 50px
-}
-
-.right-side{
-  padding-left: 50px
-}
