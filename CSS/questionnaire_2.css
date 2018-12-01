@@ -1,0 +1,11 @@
+body {
+text-align: center;
+background: Black;
+color: red;
+font-family: 'Yatra One';
+}
+
+.design {
+  display: inline-block;
+  margin: 0 2.5%;
+}
