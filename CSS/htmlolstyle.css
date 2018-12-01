@@ -1,15 +1,17 @@
 body {
   background-color: black;
+  margin: 0 auto;
+  max-width: 1200px;
 
 }
-h1{
+/*h1{
   color: #FFFFFF;
   font-family: 'Londrina Shadow';
   font-size: 100px;
   position: relative;
   margin: 0 auto;
   text-align: right;
-}
+}*/
 ul {
   background: rgba(0, 0, 0, 0.5);
   padding: 10px;
@@ -88,6 +90,7 @@ a{
             margin: -100px;
             padding: 0px;
             position: relative;
+            height: 300px;
         }
 
         #slider-image-1:target ~ .image-holder
