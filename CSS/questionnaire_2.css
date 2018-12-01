@@ -3,9 +3,17 @@ text-align: center;
 background: Black;
 color: red;
 font-family: 'Yatra One';
+max-width: 1200px;
 }
 
 .design {
   display: inline-block;
-  margin: 0 2.5%;
+}
+
+.left-side{
+  padding-right: 50px
+}
+
+.right-side{
+  padding-left: 50px
 }
